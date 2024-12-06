@@ -1,8 +1,6 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
-#define MIRYOKU_KLUDGE_MOUSEKEYSPR
-
 #if defined (MIRYOKU_KEYBOARD_CORNE)
 #define XXX &none
 
